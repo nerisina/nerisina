@@ -1,7 +1,6 @@
-# 👋 Hola !
+# Hi, I'm Neri 🤍  
+Creative Frontend Engineer • UI Specialist • Design Enthusiast
 
-🍔 I am Neri  
-🌮 Soy Neri  
-🥖 Je suis Neri  
+I build expressive, performant web interfaces with a love for animation, design systems, and thoughtful UX.
 
-I am a cat mom of two little ones [@jemappellepepa](https://www.instagram.com/jemappellepepa/) and Marguez ( his name is due to he is long like a sausage )
+---
